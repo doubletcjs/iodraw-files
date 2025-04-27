@@ -229,11 +229,11 @@
         <mxCell id="agS4IIn2dsvnmoNO9u2A-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="303" y="736" width="120" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="agS4IIn2dsvnmoNO9u2A-11" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6a00ff;opacity=70;strokeColor=#3700CC;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="138" y="309" width="305" height="62" as="geometry" />
-        </mxCell>
         <mxCell id="agS4IIn2dsvnmoNO9u2A-12" value="ATX" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;opacity=20;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="138.00000000000009" y="159.18" width="245" height="305" as="geometry" />
+          <mxGeometry x="138.0300000000001" y="159.18" width="245" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="agS4IIn2dsvnmoNO9u2A-11" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6a00ff;opacity=70;strokeColor=#3700CC;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="138.03" y="309" width="305" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
