@@ -1,9 +1,15 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="879" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="465" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HBcU2hW2f0OLwDGHMZ2n-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140.42000000000007" y="159.43" width="15" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JOHJVv_nFFTJl4Jdw_P6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="431.0300000000001" y="159.68" width="15" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="agS4IIn2dsvnmoNO9u2A-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="126.03" y="159.18" width="319" height="247" as="geometry" />
         </mxCell>
@@ -37,14 +43,8 @@
         <mxCell id="3Mb7dgrY19MOuvm8NMWC-15" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;" parent="1" vertex="1">
           <mxGeometry x="975" y="178" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HBcU2hW2f0OLwDGHMZ2n-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140.42000000000007" y="159.43" width="15" height="410" as="geometry" />
-        </mxCell>
         <mxCell id="3Mb7dgrY19MOuvm8NMWC-14" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;" parent="1" vertex="1">
           <mxGeometry x="137.99999999999997" y="498.43" width="200" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="JOHJVv_nFFTJl4Jdw_P6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="431.0300000000001" y="159.68" width="15" height="410" as="geometry" />
         </mxCell>
         <mxCell id="ioYGdw78SfN6zYOJzbGA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="776" y="167.68" width="121" height="394" as="geometry" />
