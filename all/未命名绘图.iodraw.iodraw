@@ -147,6 +147,11 @@
             <mxPoint x="216.5" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HgpVSnsf3Iw9xRATfIFa-77" value="3&lt;div&gt;7&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;5&lt;/div&gt;&lt;div&gt;m&lt;/div&gt;&lt;div&gt;m&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HgpVSnsf3Iw9xRATfIFa-76">
+          <mxGeometry x="-0.0281" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HgpVSnsf3Iw9xRATfIFa-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="486" width="15" height="30" as="geometry" />
         </mxCell>
@@ -161,6 +166,15 @@
         </mxCell>
         <mxCell id="HgpVSnsf3Iw9xRATfIFa-84" value="6#32" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3" y="495.5" width="45" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HgpVSnsf3Iw9xRATfIFa-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="496" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HgpVSnsf3Iw9xRATfIFa-88" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="69" y="511" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="HgpVSnsf3Iw9xRATfIFa-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="74.75" y="516.75" width="3.5" height="3.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
