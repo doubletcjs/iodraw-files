@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JN0A05BbZ8F--zHL6aZ9-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="423.03" y="1369" width="180" height="410" as="geometry" />
+        </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-129" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="438.03" y="1693" width="150" height="86" as="geometry" />
+          <mxGeometry x="438.03" y="1709" width="150" height="86" as="geometry" />
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-43" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="646.75" y="766" width="140" height="140" as="geometry" />
@@ -333,9 +336,6 @@
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-41" value="120x120x25" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="293.03" y="963" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="JN0A05BbZ8F--zHL6aZ9-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="423.03" y="1369" width="180" height="410" as="geometry" />
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="736.5" y="1369" width="310" height="410" as="geometry" />
