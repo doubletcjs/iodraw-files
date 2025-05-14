@@ -803,11 +803,14 @@
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-559" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="312.74" y="1317.5" width="4" height="4" as="geometry" />
         </mxCell>
+        <mxCell id="JN0A05BbZ8F--zHL6aZ9-566" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JN0A05BbZ8F--zHL6aZ9-553" target="JN0A05BbZ8F--zHL6aZ9-565">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-553" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;strokeColor=none;fillColor=#eeeeee;align=center;" vertex="1" parent="1">
           <mxGeometry x="289" y="1214.5" width="25.76" height="105" as="geometry" />
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-565" value="孔距10.5mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1250" width="85" height="26" as="geometry" />
+          <mxGeometry x="189.04" y="1254" width="85" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
