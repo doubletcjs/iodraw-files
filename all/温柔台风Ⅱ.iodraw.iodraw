@@ -786,7 +786,7 @@
           <mxGeometry x="312.74" y="1212.5" width="4" height="4" as="geometry" />
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-553" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="302.24" y="1214.5" width="5" height="105" as="geometry" />
+          <mxGeometry x="302.24" y="1214.5" width="11.76" height="105" as="geometry" />
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-554" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="427.24" y="1214.5" width="5" height="105" as="geometry" />
@@ -805,12 +805,6 @@
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-559" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="312.74" y="1317.5" width="4" height="4" as="geometry" />
-        </mxCell>
-        <mxCell id="JN0A05BbZ8F--zHL6aZ9-564" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289" y="1339" as="sourcePoint" />
-            <mxPoint x="339" y="1289" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
