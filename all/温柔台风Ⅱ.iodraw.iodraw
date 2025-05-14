@@ -394,9 +394,6 @@
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="838.1199999999999" y="1755.25" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JN0A05BbZ8F--zHL6aZ9-175" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="845.1199999999999" y="1762.25" width="6" height="6" as="geometry" />
-        </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-176" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1142.59" y="1735.25" width="5" height="40" as="geometry" />
         </mxCell>
@@ -417,9 +414,6 @@
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-182" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1134.5" y="1372.5" width="6" height="6" as="geometry" />
-        </mxCell>
-        <mxCell id="JN0A05BbZ8F--zHL6aZ9-183" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1134.59" y="1762.25" width="6" height="6" as="geometry" />
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="114.03999999999996" y="1365" width="180" height="410" as="geometry" />
@@ -679,6 +673,12 @@
         </mxCell>
         <mxCell id="JN0A05BbZ8F--zHL6aZ9-148" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430.1299999999999" y="1762" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="JN0A05BbZ8F--zHL6aZ9-175" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="845.1199999999999" y="1762.25" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="JN0A05BbZ8F--zHL6aZ9-183" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1134.59" y="1762.25" width="6" height="6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
