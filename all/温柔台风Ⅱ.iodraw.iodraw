@@ -1,9 +1,18 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="1404" dy="911" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1800" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1800" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ENKu84IcbsyZg1DI_nq1-98" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="503.46000000000015" y="1330" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ENKu84IcbsyZg1DI_nq1-99" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="503.46000000000015" y="1470" width="25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ENKu84IcbsyZg1DI_nq1-118" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="503.4600000000001" y="1610" width="25" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="ENKu84IcbsyZg1DI_nq1-7" value="90x90x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="954" y="954" width="90" height="90" as="geometry" />
         </mxCell>
@@ -694,12 +703,6 @@
         <mxCell id="ENKu84IcbsyZg1DI_nq1-97" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;" vertex="1" parent="1">
           <mxGeometry x="530.93" y="1543.25" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ENKu84IcbsyZg1DI_nq1-98" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="503.46000000000015" y="1330" width="25" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="ENKu84IcbsyZg1DI_nq1-99" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="503.46000000000015" y="1470" width="25" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="ENKu84IcbsyZg1DI_nq1-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="513.99" y="1295" width="15" height="460" as="geometry" />
         </mxCell>
@@ -750,9 +753,6 @@
         </mxCell>
         <mxCell id="ENKu84IcbsyZg1DI_nq1-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514.05" y="1290" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="ENKu84IcbsyZg1DI_nq1-118" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="513.4600000000002" y="1480" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
