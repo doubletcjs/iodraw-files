@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="2246" dy="1458" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1800" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1321" dy="858" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1800" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,17 +634,11 @@
         <mxCell id="ENKu84IcbsyZg1DI_nq1-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166.5" y="1325" width="7" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ENKu84IcbsyZg1DI_nq1-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="1621" width="180" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="ENKu84IcbsyZg1DI_nq1-51" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="565.0000000000001" y="1321" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ENKu84IcbsyZg1DI_nq1-52" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="565.0000000000001" y="1451" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="ENKu84IcbsyZg1DI_nq1-53" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="550.0000000000001" y="1641" width="150" height="86" as="geometry" />
         </mxCell>
         <mxCell id="ENKu84IcbsyZg1DI_nq1-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="1277" width="180" height="15" as="geometry" />
@@ -714,6 +708,12 @@
         </mxCell>
         <mxCell id="ENKu84IcbsyZg1DI_nq1-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1291.75" width="15" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ENKu84IcbsyZg1DI_nq1-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1621" width="180" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ENKu84IcbsyZg1DI_nq1-53" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="550.0000000000001" y="1641" width="150" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
