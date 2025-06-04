@@ -886,9 +886,6 @@
         <mxCell id="aQKZJ3Wf9di_c4D9UAjT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430.06" y="1268.2" width="15" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="iWndHlzKsAZFN4nEsOvB-42" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="445.06000000000023" y="1213" width="1.5" height="73" as="geometry" />
-        </mxCell>
         <mxCell id="iWndHlzKsAZFN4nEsOvB-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="101.82" y="1084" width="330" height="15" as="geometry" />
         </mxCell>
@@ -1011,6 +1008,9 @@
         </mxCell>
         <mxCell id="iWndHlzKsAZFN4nEsOvB-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="316.82" y="1072.8" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="iWndHlzKsAZFN4nEsOvB-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="1185" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
