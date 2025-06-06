@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="518" dy="273" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1800" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1800" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -734,7 +734,7 @@
           <mxGeometry x="1461.53" y="242" width="5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1269.03" y="267" width="180" height="38.5" as="geometry" />
+          <mxGeometry x="1269.03" y="265.75" width="180" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-55" value="5mm*70" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1222.53" y="187" width="63" height="26" as="geometry" />
@@ -757,7 +757,7 @@
         <mxCell id="kDXelKEPiwkuhfEdFnh3-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1256.53" y="242" width="205" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="kDXelKEPiwkuhfEdFnh3-62" value="205mm*60mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kDXelKEPiwkuhfEdFnh3-62" value="205mm*54mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1311.03" y="206" width="96" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kDXelKEPiwkuhfEdFnh3-51" target="kDXelKEPiwkuhfEdFnh3-62">
