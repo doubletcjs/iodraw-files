@@ -1028,7 +1028,10 @@
           <mxGeometry x="270.9999999999999" y="1646.9" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-382" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="621.92" y="2214.7" width="165" height="86" as="geometry" />
+          <mxGeometry x="621.92" y="2214.7" width="150" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="kDXelKEPiwkuhfEdFnh3-384" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="808.4200000000002" y="1324.5499999999997" width="15" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
