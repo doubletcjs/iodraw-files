@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kDXelKEPiwkuhfEdFnh3-209" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6a00ff;opacity=70;strokeColor=#3700CC;fontColor=#ffffff;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="544.48" y="1333.2999999999997" width="150" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1738.5" y="371" width="5" height="70" as="geometry" />
         </mxCell>
@@ -961,14 +964,8 @@
         <mxCell id="kDXelKEPiwkuhfEdFnh3-204" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236.01000000000016" y="1733.2999999999997" width="180" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="kDXelKEPiwkuhfEdFnh3-207" value="140x140x28" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="544.7800000000001" y="1614.6999999999998" width="140" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-208" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=south;" vertex="1" parent="1">
           <mxGeometry x="694.7800000000002" y="1332.6" width="10" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="kDXelKEPiwkuhfEdFnh3-209" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6a00ff;opacity=70;strokeColor=#3700CC;fontColor=#ffffff;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="544.48" y="1333.2999999999997" width="150" height="360" as="geometry" />
         </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-210" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509.78000000000014" y="1311.5" width="15" height="3.6" as="geometry" />
