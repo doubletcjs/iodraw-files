@@ -854,6 +854,12 @@
         <mxCell id="kDXelKEPiwkuhfEdFnh3-92" value="20mm*70mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1660.19" y="638" width="89" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="kDXelKEPiwkuhfEdFnh3-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.541;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kDXelKEPiwkuhfEdFnh3-91" target="kDXelKEPiwkuhfEdFnh3-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kDXelKEPiwkuhfEdFnh3-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.477;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kDXelKEPiwkuhfEdFnh3-87" target="kDXelKEPiwkuhfEdFnh3-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
