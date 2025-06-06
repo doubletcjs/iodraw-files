@@ -763,8 +763,8 @@
         <mxCell id="kDXelKEPiwkuhfEdFnh3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.898;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kDXelKEPiwkuhfEdFnh3-51" target="kDXelKEPiwkuhfEdFnh3-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kDXelKEPiwkuhfEdFnh3-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle" vertex="1" parent="1">
-          <mxGeometry x="1422" y="447.5" width="5" height="75" as="geometry" />
+        <mxCell id="kDXelKEPiwkuhfEdFnh3-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1422" y="447.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
