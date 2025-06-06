@@ -848,10 +848,14 @@
         <mxCell id="kDXelKEPiwkuhfEdFnh3-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kDXelKEPiwkuhfEdFnh3-92">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1704.6899999999996" y="618.7283799913193" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1705" y="611" />
+              <mxPoint x="1705" y="611" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kDXelKEPiwkuhfEdFnh3-92" value="20mm*70mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1660.19" y="631.5" width="89" height="26" as="geometry" />
+          <mxGeometry x="1660.19" y="638" width="89" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
