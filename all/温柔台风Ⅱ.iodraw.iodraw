@@ -1213,9 +1213,6 @@
         <mxCell id="4OvACD-LN8dOBI3LimLL-204" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;28" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="126.01000000000006" y="2169" width="28" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4OvACD-LN8dOBI3LimLL-205" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="489.3100000000003" y="1888.6" width="25" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="4OvACD-LN8dOBI3LimLL-207" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499.27000000000004" y="1873.3999999999999" width="15" height="3.6" as="geometry" />
         </mxCell>
@@ -1227,6 +1224,9 @@
         </mxCell>
         <mxCell id="4OvACD-LN8dOBI3LimLL-210" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154.27000000000007" y="2310.2000000000003" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="4OvACD-LN8dOBI3LimLL-211" value="120x120x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;opacity=80;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="431.00000000000057" y="1927.9999999999998" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
