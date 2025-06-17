@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hg5Vf1T6uNdpL1RUYtdr-244" value="" style="rounded=1;whiteSpace=wrap;html=1;imageAspect=0;absoluteArcSize=0;arcSize=15;allowArrows=1;imageVerticalAlign=middle;imageWidth=0;imageHeight=0;" vertex="1" parent="1">
-          <mxGeometry x="371" y="1430" width="210" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="4OvACD-LN8dOBI3LimLL-1" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;28" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="100.01000000000029" y="241.21999999999986" width="28" height="140" as="geometry" />
         </mxCell>
@@ -406,8 +403,14 @@
         <mxCell id="kDXelKEPiwkuhfEdFnh3-122" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="479.25000000000006" y="221.22000000000003" width="15" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="Hg5Vf1T6uNdpL1RUYtdr-237" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;absoluteArcSize=0;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="371" y="1427" width="15" height="20" as="geometry" />
+        <mxCell id="Hg5Vf1T6uNdpL1RUYtdr-236" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="1450" width="210" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg5Vf1T6uNdpL1RUYtdr-237" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;absoluteArcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="1430" width="15" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Hg5Vf1T6uNdpL1RUYtdr-238" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="566" y="1430" width="15" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
