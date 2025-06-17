@@ -460,6 +460,9 @@
         <mxCell id="Hg5Vf1T6uNdpL1RUYtdr-266" value="30mm*15mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="129.04" y="1340" width="89" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="Hg5Vf1T6uNdpL1RUYtdr-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Hg5Vf1T6uNdpL1RUYtdr-258" target="Hg5Vf1T6uNdpL1RUYtdr-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
