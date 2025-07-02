@@ -557,7 +557,7 @@
         <mxCell id="lwjjUQYuPcavaxZ3UwTz-39" value="宽：330mm 高：15mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="134.25" y="1642" width="143" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="lwjjUQYuPcavaxZ3UwTz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.784;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="lwjjUQYuPcavaxZ3UwTz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="lwjjUQYuPcavaxZ3UwTz-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="339.68" y="1610.8909523809523" as="sourcePoint" />
             <mxPoint x="277.252" y="1658.894" as="targetPoint" />
