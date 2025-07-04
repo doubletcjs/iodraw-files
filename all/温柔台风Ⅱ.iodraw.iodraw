@@ -1,9 +1,18 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="244" dy="181" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="532" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lwjjUQYuPcavaxZ3UwTz-193" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="231" y="964" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lwjjUQYuPcavaxZ3UwTz-194" value="90x90x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="231" y="963.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lwjjUQYuPcavaxZ3UwTz-195" value="90x90x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="321" y="963.5" width="90" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="0_dLBjz1nCBM-7vdkwhb-100" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="358" y="574.79" width="200" height="86" as="geometry" />
         </mxCell>
@@ -302,7 +311,7 @@
           <mxGeometry x="391.25000000000006" y="1064" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="lwjjUQYuPcavaxZ3UwTz-181" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205.99999999999994" y="926.5" width="90" height="130" as="geometry" />
+          <mxGeometry x="205.99999999999994" y="923.5" width="90" height="130" as="geometry" />
         </mxCell>
         <mxCell id="lwjjUQYuPcavaxZ3UwTz-182" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476.00000000000006" y="894" width="15" height="180" as="geometry" />
@@ -339,15 +348,6 @@
         </mxCell>
         <mxCell id="lwjjUQYuPcavaxZ3UwTz-192" value="ATX" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;" vertex="1" parent="1">
           <mxGeometry x="326" y="821" width="150" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="lwjjUQYuPcavaxZ3UwTz-193" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="231" y="964" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="lwjjUQYuPcavaxZ3UwTz-194" value="90x90x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="231" y="963.5" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="lwjjUQYuPcavaxZ3UwTz-195" value="90x90x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="321" y="963.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="lwjjUQYuPcavaxZ3UwTz-196" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="326.0000000000001" y="886.5" width="16" height="20" as="geometry" />
