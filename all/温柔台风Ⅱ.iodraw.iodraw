@@ -409,21 +409,6 @@
         <mxCell id="39bXuq5fTWGJ8FnFSCkY-246" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=north;" parent="1" vertex="1">
           <mxGeometry x="630" y="59.79500000000013" width="402" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="Jgq_AzlUgcg_Bf65No7a-91" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1419.740695529514" y="185" as="sourcePoint" />
-            <mxPoint x="1217.12" y="120.65" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1217.12" y="170.65" />
-              <mxPoint x="1303" y="409" />
-              <mxPoint x="1204" y="319" />
-              <mxPoint x="1198" y="270" />
-              <mxPoint x="1177" y="220" />
-              <mxPoint x="1147" y="162" />
-              <mxPoint x="1167.12" y="120.65" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
