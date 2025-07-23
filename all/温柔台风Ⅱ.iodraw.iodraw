@@ -934,6 +934,12 @@
             <mxPoint x="1448" y="1515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oUijHwz3cpR-SvLRE9oG-265" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.469;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.673;exitY=0.545;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" target="oUijHwz3cpR-SvLRE9oG-245">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="1508" as="sourcePoint" />
+            <mxPoint x="1633" y="1508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
