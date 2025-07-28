@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="301" dy="210" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="666.72" y="209.20000000000002" width="15" height="456.6" as="geometry" />
         </mxCell>
         <mxCell id="oUijHwz3cpR-SvLRE9oG-214" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="1235.2399999999998" y="579.8000000000002" width="150" height="86" as="geometry" />
+          <mxGeometry x="1233.12" y="577.8000000000002" width="150" height="86" as="geometry" />
         </mxCell>
         <mxCell id="_UN-socFQfei0TXXag8T-366" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="1227.5" y="1142.2000000000003" width="150" height="86" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="346.00000000000006" y="1482.1399999999999" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0_dLBjz1nCBM-7vdkwhb-100" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="814.26" y="580" width="200" height="86" as="geometry" />
+          <mxGeometry x="812.26" y="580" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="0_dLBjz1nCBM-7vdkwhb-91" value="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="906.5099999999998" y="377.5599999999995" width="105" height="20.32" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry x="1385.1200000000003" y="197.39999999999964" width="15" height="480" as="geometry" />
         </mxCell>
         <mxCell id="0_dLBjz1nCBM-7vdkwhb-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1205.2400000000002" y="665.9999999999998" width="180" height="15" as="geometry" />
+          <mxGeometry x="1205.1200000000003" y="665.9999999999998" width="180" height="15" as="geometry" />
         </mxCell>
         <mxCell id="0_dLBjz1nCBM-7vdkwhb-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=south;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="1560.0000000000002" y="256.3999999999998" width="6" height="305" as="geometry" />
