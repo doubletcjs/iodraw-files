@@ -7,12 +7,6 @@
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="737.6599999999999" y="1668.1" width="261" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="9PbJzDb0KmrTCMcL9nnt-58" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="325.54999999999995" y="1493.1" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="9PbJzDb0KmrTCMcL9nnt-59" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="185.55" y="1493.1" width="140" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="G_fmdaMVzcJaV__d-I7C-53" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="151.55" y="1627.1" width="305" height="6" as="geometry" />
         </mxCell>
@@ -738,6 +732,9 @@
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-61" value="120&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;120&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=north;" vertex="1" parent="1">
           <mxGeometry x="1114.96" y="1513.1" width="25" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9PbJzDb0KmrTCMcL9nnt-62" value="120&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;120&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="77" y="1404" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
