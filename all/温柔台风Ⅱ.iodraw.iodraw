@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="553" dy="419" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="790" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -444,21 +444,6 @@
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-185" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1469.44" y="551.5999999999999" width="134" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="zKZwhrQhRyoWA5UdGbOL-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.005;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="902.1949999999998" y="625.9950000000003" as="sourcePoint" />
-            <mxPoint x="1232" y="651" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="972" y="509" />
-              <mxPoint x="1093" y="565" />
-              <mxPoint x="1014.86" y="575" />
-              <mxPoint x="1042" y="599" />
-              <mxPoint x="1135" y="638" />
-              <mxPoint x="1183" y="674" />
-              <mxPoint x="1018.86" y="458" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
