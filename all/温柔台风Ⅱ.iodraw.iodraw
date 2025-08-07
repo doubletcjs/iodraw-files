@@ -1,9 +1,18 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="243" dy="184" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="503" dy="381" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9PbJzDb0KmrTCMcL9nnt-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895.27" y="598.1999999999994" width="360" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9PbJzDb0KmrTCMcL9nnt-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1042.27" y="598.1999999999998" width="228" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9PbJzDb0KmrTCMcL9nnt-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1062.27" y="598.1999999999998" width="188" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-160" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="897.27" y="258.1999999999995" width="15" height="340" as="geometry" />
         </mxCell>
@@ -33,9 +42,6 @@
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-105" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="1447.0099999999998" y="621.8000000000004" width="150" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="9PbJzDb0KmrTCMcL9nnt-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="895.27" y="598.1999999999994" width="360" height="15" as="geometry" />
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-92" value="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="1062.2599999999998" y="491.19999999999953" width="20.32" height="105" as="geometry" />
@@ -438,12 +444,6 @@
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-187" value="90&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;90&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=north;" vertex="1" parent="1">
           <mxGeometry x="1237" y="779.9999999999998" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="9PbJzDb0KmrTCMcL9nnt-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1042.27" y="598.1999999999998" width="228" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="9PbJzDb0KmrTCMcL9nnt-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1062.27" y="598.1999999999998" width="188" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
