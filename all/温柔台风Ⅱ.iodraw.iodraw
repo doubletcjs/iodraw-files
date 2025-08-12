@@ -799,8 +799,11 @@
         <mxCell id="KEnnyNZWy3yltr6VHeC_-116" value="120&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;120&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=east;" vertex="1" parent="1">
           <mxGeometry x="977" y="849.9" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="KEnnyNZWy3yltr6VHeC_-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="888.9999999999999" y="1085.6100000000001" width="130" height="139" as="geometry" />
+        <mxCell id="KEnnyNZWy3yltr6VHeC_-118" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="893.9999999999999" y="1095.2" width="139" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KEnnyNZWy3yltr6VHeC_-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="1076" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
