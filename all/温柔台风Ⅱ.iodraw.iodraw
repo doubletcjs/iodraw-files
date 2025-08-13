@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="1169" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="422" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,10 +251,10 @@
           <mxGeometry x="1241" y="955.4099999999999" width="106" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-98" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="1358.4500000000003" y="134.00999999999988" width="25" height="140" as="geometry" />
+          <mxGeometry x="1356.4500000000003" y="134.00999999999988" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-99" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="1358.4500000000003" y="274.01" width="25" height="140" as="geometry" />
+          <mxGeometry x="1356.4500000000003" y="274.01" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_UN-socFQfei0TXXag8T-397" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1366.46" y="573.2099999999998" width="15" height="3.6" as="geometry" />
@@ -275,7 +275,7 @@
           <mxGeometry x="1366.46" y="110.01" width="15" height="3.6" as="geometry" />
         </mxCell>
         <mxCell id="9PbJzDb0KmrTCMcL9nnt-193" value="140&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;16&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;direction=north;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="1367.45" y="414.00999999999976" width="16" height="140" as="geometry" />
+          <mxGeometry x="1365.45" y="414.00999999999976" width="16" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_UN-socFQfei0TXXag8T-398" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="1366.45" y="113.20999999999982" width="15" height="460" as="geometry" />
@@ -801,9 +801,6 @@
         </mxCell>
         <mxCell id="9RCdS8BfzwXZQy9Shqex-35" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1609.69" y="142.56" width="88" height="1.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9RCdS8BfzwXZQy9Shqex-37" value="140&lt;br&gt;x&lt;br&gt;140&lt;br&gt;x&lt;br&gt;25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="1368.4500000000003" y="284.01" width="25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
