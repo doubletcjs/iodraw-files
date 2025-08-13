@@ -67,12 +67,6 @@
         <mxCell id="KEnnyNZWy3yltr6VHeC_-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="98.80000000000004" y="1042" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Htb2X9ebk-sBNgifNX3D-170" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="72.00999999999976" y="356.00000000000045" width="86" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="KEnnyNZWy3yltr6VHeC_-97" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=default;fontColor=#ffffff;direction=west;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="72.00999999999974" y="434.00000000000045" width="86" height="122" as="geometry" />
-        </mxCell>
         <mxCell id="KEnnyNZWy3yltr6VHeC_-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="737.01" y="1025.4099999999999" width="360" height="15" as="geometry" />
         </mxCell>
@@ -561,9 +555,6 @@
         </mxCell>
         <mxCell id="Htb2X9ebk-sBNgifNX3D-190" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=north;" parent="1" vertex="1">
           <mxGeometry x="1710" y="2608" width="15" height="285" as="geometry" />
-        </mxCell>
-        <mxCell id="Htb2X9ebk-sBNgifNX3D-187" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="69" y="271" width="90" height="285" as="geometry" />
         </mxCell>
         <mxCell id="Htb2X9ebk-sBNgifNX3D-191" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=north;" parent="1" vertex="1">
           <mxGeometry x="1350" y="2608" width="90" height="285" as="geometry" />
