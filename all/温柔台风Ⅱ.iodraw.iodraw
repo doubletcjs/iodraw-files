@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="1720" dy="1035" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="3200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="697" dy="419" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="3200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,9 +345,6 @@
         </mxCell>
         <mxCell id="zKZwhrQhRyoWA5UdGbOL-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=north;" parent="1" vertex="1">
           <mxGeometry x="37.74000000000001" y="2762.815" width="390" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="Htb2X9ebk-sBNgifNX3D-59" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1565.5" y="546.8000000000003" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Htb2X9ebk-sBNgifNX3D-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1033.27" y="586.8" width="31" height="15" as="geometry" />
@@ -1041,6 +1038,12 @@
         </mxCell>
         <mxCell id="KEnnyNZWy3yltr6VHeC_-247" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;opacity=60;fontColor=#ffffff;direction=east;" vertex="1" parent="1">
           <mxGeometry x="1564.5" y="67.98500000000011" width="122" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="KEnnyNZWy3yltr6VHeC_-248" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1595" y="452.0000000000003" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KEnnyNZWy3yltr6VHeC_-249" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1595.0000000000002" y="476.9999999999997" width="180" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
