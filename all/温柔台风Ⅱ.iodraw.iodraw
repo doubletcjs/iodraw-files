@@ -82,9 +82,6 @@
         <mxCell id="isKyDwx2aCIlhOQynE1z-282" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="79.18999999999998" y="684.9999999999997" width="15" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="isKyDwx2aCIlhOQynE1z-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="404.18999999999994" y="684.9999999999997" width="15" height="290" as="geometry" />
-        </mxCell>
         <mxCell id="isKyDwx2aCIlhOQynE1z-304" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;strokeWidth=1;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="545.9999999999999" y="877.6000000000004" width="150" height="86" as="geometry" />
         </mxCell>
@@ -601,14 +598,17 @@
         <mxCell id="isKyDwx2aCIlhOQynE1z-347" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="956.01" y="974.9999999999999" width="15" height="3.6" as="geometry" />
         </mxCell>
-        <mxCell id="isKyDwx2aCIlhOQynE1z-349" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="404.19" y="974.9999999999999" width="15" height="3.6" as="geometry" />
-        </mxCell>
         <mxCell id="isKyDwx2aCIlhOQynE1z-350" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="79.18999999999998" y="974.9999999999999" width="15" height="3.6" as="geometry" />
         </mxCell>
         <mxCell id="isKyDwx2aCIlhOQynE1z-353" value="140x140x28" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="619.6199999999999" y="81.6" width="140" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="isKyDwx2aCIlhOQynE1z-283" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="404.18999999999994" y="684.9999999999997" width="15" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="isKyDwx2aCIlhOQynE1z-349" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="404.19" y="974.9999999999999" width="15" height="3.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
