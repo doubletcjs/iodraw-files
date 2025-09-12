@@ -223,7 +223,7 @@
         <mxCell id="isKyDwx2aCIlhOQynE1z-303" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=west;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="670.0100000000001" y="202.2199999999999" width="330" height="7.39" as="geometry" />
         </mxCell>
-        <mxCell id="isKyDwx2aCIlhOQynE1z-312" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="isKyDwx2aCIlhOQynE1z-312" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="1016.9999999999995" y="209.60000000000002" width="28" height="140" as="geometry" />
         </mxCell>
         <mxCell id="isKyDwx2aCIlhOQynE1z-322" value="120&lt;div&gt;x&lt;/div&gt;&lt;div&gt;120&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;25&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" parent="1" vertex="1">
@@ -500,7 +500,7 @@
           <mxGeometry x="828.19" y="567.3000000000001" width="15" height="460" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-96" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="498.19" y="866" width="182.81" height="150" as="geometry" />
+          <mxGeometry x="498.18999999999966" y="866.0000000000002" width="122" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
