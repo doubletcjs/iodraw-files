@@ -481,6 +481,12 @@
         <mxCell id="uA-S4mhg91q2iELxUFlk-153" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
           <mxGeometry x="815.19" y="586.4000000000001" width="28" height="138.8" as="geometry" />
         </mxCell>
+        <mxCell id="uA-S4mhg91q2iELxUFlk-96" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="498.18999999999966" y="866.0000000000002" width="122" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uA-S4mhg91q2iELxUFlk-188" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="815.1899999999994" y="869.1999999999999" width="28" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820.5899999999996" y="1030.9000000000008" width="31" height="15" as="geometry" />
         </mxCell>
@@ -498,12 +504,6 @@
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-99" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="828.19" y="567.3000000000001" width="15" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="uA-S4mhg91q2iELxUFlk-96" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="498.18999999999966" y="866.0000000000002" width="122" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="uA-S4mhg91q2iELxUFlk-188" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="815.1899999999994" y="867.1999999999999" width="28" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
