@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="456" dy="299" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,13 +419,13 @@
           <mxGeometry x="85.91" y="876.1000000000001" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-295" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="491.78" y="882.1" width="150" height="340" as="geometry" />
+          <mxGeometry x="491.51" y="891" width="150" height="340" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=south;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="478.7800000000001" y="974.1000000000004" width="13" height="245" as="geometry" />
+          <mxGeometry x="478.5100000000001" y="983.0000000000003" width="13" height="245" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-139" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;direction=south;fontColor=#ffffff;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="491.77999999999986" y="1169.5000000000007" width="44.7" height="50" as="geometry" />
+          <mxGeometry x="491.5099999999999" y="1178.4000000000008" width="44.7" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-137" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="572.7799999999996" y="1178.0000000000002" width="86" height="150" as="geometry" />
@@ -443,7 +443,7 @@
           <mxGeometry x="100.41" y="1029.6999999999998" width="130" height="139" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-303" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="491.7799999999999" y="1039.5" width="157" height="130" as="geometry" />
+          <mxGeometry x="491.50999999999993" y="1048.4" width="157" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-304" value="风扇固定&#xa;4个M4*6 4个M3*30 手拧&#xa;4个M4*6 12个M3*30&#xa;&#xa;&#xa;8个M3*30 手拧&#xa;&#xa;&#xa;电源固定 &#xa;4个M4*6 4个6#32&#xa;&#xa;&#xa;8个M4*6 8个6#32&#xa;&#xa;&#xa;PCIE固定 &#xa;4个M4*6&#xa;&#xa;&#xa;4个M4*6&#xa;&#xa;&#xa;硬盘固定 &#xa;12个M4*6&#xa;&#xa;&#xa;主板&#xa;9个M3*6&#xa;&#xa;&#xa;9个M3*6&#xa;9个M3*6&#xa;&#xa;&#xa;螺丝&#xa;27个M3*6 （DENG18个）&#xa;24个M3*30（手拧12个）&#xa;40个M4*6&#xa;12个6#32（DENG）&#xa;&#xa;&#xa;滑块螺母&#xa;27个M3&#xa;40个M4&#xa;&#xa;&#xa;铜柱&#xa;9个M3 13mm+4mm&#xa;&#xa;&#xa;9个M3 6mm+4mm&#xa;9个M3 6mm+4mm" style="text;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="938" y="462" width="169" height="827.39" as="geometry" />
