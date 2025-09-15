@@ -4,14 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QPiwJS13ClX56L_jBY20-158" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.1600000000001" y="1155.3999999999999" width="180" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-152" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-205.00000000000057" y="1323.0000000000002" width="140" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="640.1599999999999" y="1050.6" width="147" height="123" as="geometry" />
+          <mxGeometry x="-88.00000000000011" y="1587" width="147" height="123" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="448.50999999999976" y="1437" width="236" height="120" as="geometry" />
@@ -637,14 +634,8 @@
         <mxCell id="QPiwJS13ClX56L_jBY20-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="772.16" y="1327.0000000000005" width="15" height="3.6" as="geometry" />
         </mxCell>
-        <mxCell id="QPiwJS13ClX56L_jBY20-134" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=north;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="362.16" y="1070.6" width="6" height="245" as="geometry" />
-        </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-135" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=east;strokeWidth=1;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="467.16" y="1048.4000000000003" width="150" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="QPiwJS13ClX56L_jBY20-136" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617.16" y="1033.3999999999999" width="15" height="15" as="geometry" />
+          <mxGeometry x="-29" y="1550.0000000000005" width="150" height="86" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269.51" y="1036.9999999999995" width="15" height="290" as="geometry" />
@@ -654,15 +645,6 @@
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269.51000000000005" y="1327.0000000000005" width="15" height="3.6" as="geometry" />
-        </mxCell>
-        <mxCell id="QPiwJS13ClX56L_jBY20-153" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368.77999999999986" y="1153" width="130" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="QPiwJS13ClX56L_jBY20-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592.1600000000001" y="1175.8" width="180" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="QPiwJS13ClX56L_jBY20-157" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536.16" y="1315.6" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-162" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=south;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="722.9999999999999" y="1082.0000000000007" width="245" height="245" as="geometry" />
