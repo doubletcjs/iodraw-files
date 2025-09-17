@@ -19,7 +19,7 @@
         <mxCell id="QPiwJS13ClX56L_jBY20-210" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;direction=west;" vertex="1" parent="1">
           <mxGeometry x="146.08999999999995" y="199.20000000000016" width="147" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="uA-S4mhg91q2iELxUFlk-157" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;direction=south;aspect=fixed;opacity=80;" parent="1" vertex="1">
+        <mxCell id="uA-S4mhg91q2iELxUFlk-157" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x16&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;direction=south;aspect=fixed;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="575.7800000000003" y="1164.3999999999996" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-11" value="90&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;90&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=west;" vertex="1" parent="1">
@@ -469,9 +469,6 @@
         <mxCell id="QPiwJS13ClX56L_jBY20-301" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
           <mxGeometry x="214.60999999999942" y="641.2000000000002" width="28" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QPiwJS13ClX56L_jBY20-302" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="214.60999999999942" y="484.60000000000014" width="28" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-303" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="348.5699999999997" y="499.2000000000002" width="151" height="150" as="geometry" />
         </mxCell>
@@ -534,6 +531,9 @@
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-152" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=west;" parent="1" vertex="1">
           <mxGeometry x="595.5899999999995" y="873.9999999999997" width="140" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="QPiwJS13ClX56L_jBY20-331" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="672.5699999999999" y="261.50000000000017" width="147" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
