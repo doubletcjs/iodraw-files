@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="1521" dy="997" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="485" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,8 +703,8 @@
         <mxCell id="I5KdZFdFaCefU3vEP3oS-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;direction=south;fontColor=#ffffff;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="1282.1499999999999" y="1161.0000000000007" width="44.7" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I5KdZFdFaCefU3vEP3oS-70" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1370.4199999999996" y="1189.8000000000002" width="86" height="150" as="geometry" />
+        <mxCell id="I5KdZFdFaCefU3vEP3oS-70" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;strokeWidth=0;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1321.4199999999996" y="1225.5000000000002" width="150" height="86" as="geometry" />
         </mxCell>
         <mxCell id="I5KdZFdFaCefU3vEP3oS-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1282.15" y="1250.8000000000002" width="30" height="30" as="geometry" />
