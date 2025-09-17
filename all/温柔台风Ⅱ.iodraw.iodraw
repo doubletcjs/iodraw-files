@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QPiwJS13ClX56L_jBY20-281" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="630.5699999999995" y="182.20000000000016" width="28" height="140" as="geometry" />
+          <mxGeometry x="536.5599999999995" y="182.20000000000016" width="28" height="140" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-255" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;direction=west;" vertex="1" parent="1">
           <mxGeometry x="514.57" y="260.20000000000016" width="103" height="62" as="geometry" />
@@ -480,6 +480,9 @@
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-293" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="411.56" y="305.09999999999997" width="110" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="QPiwJS13ClX56L_jBY20-294" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544.0600000000003" y="39.99999999999983" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
