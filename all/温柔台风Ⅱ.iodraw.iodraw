@@ -232,9 +232,6 @@
         <mxCell id="uA-S4mhg91q2iELxUFlk-304" value="风扇固定&#xa;4个M4*6 4个M3*30 手拧&#xa;4个M4*6 12个M3*30&#xa;&#xa;&#xa;8个M3*30 手拧&#xa;&#xa;&#xa;电源固定 &#xa;4个M4*6 4个6#32&#xa;&#xa;&#xa;8个M4*6 8个6#32&#xa;&#xa;&#xa;PCIE固定 &#xa;4个M4*6&#xa;&#xa;&#xa;4个M4*6&#xa;&#xa;&#xa;硬盘固定 &#xa;12个M4*6&#xa;&#xa;&#xa;主板&#xa;9个M3*6&#xa;&#xa;&#xa;9个M3*6&#xa;9个M3*6&#xa;&#xa;&#xa;螺丝&#xa;27个M3*6 （DENG18个）&#xa;24个M3*30（手拧12个）&#xa;40个M4*6&#xa;12个6#32（DENG）&#xa;&#xa;&#xa;滑块螺母&#xa;27个M3&#xa;40个M4&#xa;&#xa;&#xa;铜柱&#xa;9个M3 13mm+4mm&#xa;&#xa;&#xa;9个M3 6mm+4mm&#xa;9个M3 6mm+4mm" style="text;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1555" y="437.3" width="169" height="827.39" as="geometry" />
         </mxCell>
-        <mxCell id="QPiwJS13ClX56L_jBY20-66" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="239.18999999999994" y="1078.1999999999998" width="15" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-68" value="90&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;90&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=west;" parent="1" vertex="1">
           <mxGeometry x="104.1899999999994" y="1232.9999999999998" width="90" height="25" as="geometry" />
         </mxCell>
@@ -242,7 +239,7 @@
           <mxGeometry x="194.1899999999994" y="1232.9999999999998" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-70" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="254.18999999999994" y="1161.1999999999998" width="180" height="15" as="geometry" />
+          <mxGeometry x="253.18999999999994" y="1161.1999999999998" width="330" height="15" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=south;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="103.90999999999985" y="914.1000000000005" width="305" height="245" as="geometry" />
