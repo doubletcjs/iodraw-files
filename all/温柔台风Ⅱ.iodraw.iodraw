@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I5KdZFdFaCefU3vEP3oS-131" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;rotation=288.5;" vertex="1" parent="1">
-          <mxGeometry x="927.9399999999994" y="955.0000000000002" width="28" height="140" as="geometry" />
+        <mxCell id="I5KdZFdFaCefU3vEP3oS-131" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;direction=south;rotation=289;" vertex="1" parent="1">
+          <mxGeometry x="769.5699999999995" y="953.0000000000002" width="28" height="140" as="geometry" />
         </mxCell>
         <mxCell id="I5KdZFdFaCefU3vEP3oS-126" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;strokeWidth=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="105.54999999999973" y="996" width="200" height="86" as="geometry" />
@@ -620,7 +620,7 @@
           <mxGeometry x="952.72" y="926" width="52" height="140" as="geometry" />
         </mxCell>
         <mxCell id="I5KdZFdFaCefU3vEP3oS-295" value="" style="shape=manualInput;whiteSpace=wrap;html=1;direction=west;flipV=1;flipH=0;size=47;" vertex="1" parent="1">
-          <mxGeometry x="864.72" y="1014" width="140" height="52" as="geometry" />
+          <mxGeometry x="709.78" y="1014" width="140" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
