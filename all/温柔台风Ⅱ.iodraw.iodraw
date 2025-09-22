@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="1591" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="9013" dy="5987" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
           <mxGeometry x="1116" y="154.60000000000002" width="106" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uA-S4mhg91q2iELxUFlk-304" value="风扇固定&#xa;4个M4*6 4个M3*30 手拧&#xa;4个M4*6 12个M3*30&#xa;&#xa;&#xa;8个M3*30 手拧&#xa;&#xa;&#xa;电源固定 &#xa;4个M4*6 4个6#32&#xa;&#xa;&#xa;8个M4*6 8个6#32&#xa;&#xa;&#xa;PCIE固定 &#xa;4个M4*6&#xa;&#xa;&#xa;4个M4*6&#xa;&#xa;&#xa;硬盘固定 &#xa;12个M4*6&#xa;&#xa;&#xa;主板&#xa;9个M3*6&#xa;&#xa;&#xa;9个M3*6&#xa;9个M3*6&#xa;&#xa;&#xa;螺丝&#xa;27个M3*6 （DENG18个）&#xa;24个M3*30（手拧12个）&#xa;40个M4*6&#xa;12个6#32（DENG）&#xa;&#xa;&#xa;滑块螺母&#xa;27个M3&#xa;40个M4&#xa;&#xa;&#xa;铜柱&#xa;9个M3 13mm+4mm&#xa;&#xa;&#xa;9个M3 6mm+4mm&#xa;9个M3 6mm+4mm" style="text;whiteSpace=wrap;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1555" y="437.3" width="169" height="827.39" as="geometry" />
+          <mxGeometry x="1605" y="21.110000000000014" width="169" height="827.39" as="geometry" />
         </mxCell>
         <mxCell id="QPiwJS13ClX56L_jBY20-211" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="83.0899999999998" y="55.00000000000034" width="236" height="120" as="geometry" />
@@ -533,16 +533,16 @@
           <mxGeometry x="365.69" y="779.19" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-133" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="769.6999999999998" y="716.7" width="15" height="460" as="geometry" />
+          <mxGeometry x="788.6699999999998" y="1133.2" width="15" height="460" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-134" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="449.7600000000001" y="853.1000000000001" width="180" height="15" as="geometry" />
+          <mxGeometry x="468.73000000000013" y="1269.6000000000001" width="180" height="15" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-135" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="769.6999999999998" y="544.5" width="15" height="460" as="geometry" />
+          <mxGeometry x="885.0599999999998" y="912" width="15" height="460" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-136" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="924.7" y="853.1000000000001" width="180" height="15" as="geometry" />
+          <mxGeometry x="943.6700000000001" y="1269.6000000000001" width="180" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
