@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="1176" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="188" dy="125" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,8 +373,8 @@
         <mxCell id="-22KtDxWP85HKrOJTFWV-235" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="931.0900000000001" y="28.60000000000034" width="3.6" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="-22KtDxWP85HKrOJTFWV-236" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="363.00000000000034" width="15" height="3.6" as="geometry" />
+        <mxCell id="-22KtDxWP85HKrOJTFWV-236" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="915.7" y="357.30000000000035" width="3.6" height="15" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-239" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=south;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="1422.5699999999997" y="55.20000000000073" width="245" height="245" as="geometry" />
@@ -398,7 +398,7 @@
           <mxGeometry x="1259.5700000000002" y="280.29999999999984" width="410" height="15" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-247" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="946.0900000000001" y="322.1999999999998" width="180" height="15" as="geometry" />
+          <mxGeometry x="934.6900000000002" y="333.5999999999998" width="180" height="15" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-248" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="945.9999999999995" y="55.00000000000023" width="86" height="150" as="geometry" />
@@ -413,7 +413,7 @@
           <mxGeometry x="952.09" y="55" width="50" height="159" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-255" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#D5E8D4;opacity=80;direction=south;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="931.09" y="337.20000000000016" width="210" height="5" as="geometry" />
+          <mxGeometry x="919.69" y="348.60000000000014" width="210" height="5" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-256" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#D5E8D4;opacity=80;direction=south;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1259.57" y="337.2" width="410" height="5" as="geometry" />
@@ -430,8 +430,8 @@
         <mxCell id="-22KtDxWP85HKrOJTFWV-260" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1114.6900000000003" y="28.60000000000034" width="3.6" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="-22KtDxWP85HKrOJTFWV-261" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1134.0000000000002" y="363.00000000000034" width="15" height="3.6" as="geometry" />
+        <mxCell id="-22KtDxWP85HKrOJTFWV-261" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1139.7000000000003" y="357.30000000000035" width="3.6" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
