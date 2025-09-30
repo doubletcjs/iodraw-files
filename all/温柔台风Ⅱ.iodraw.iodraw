@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7ess5lu5yjl1w3nFSH7W-2" value="" style="shape=manualInput;whiteSpace=wrap;html=1;flipV=0;flipH=1;size=47;" vertex="1" parent="1">
+          <mxGeometry x="393.5700000000003" y="306.6" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="7ess5lu5yjl1w3nFSH7W-3" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;rotation=18.5;" vertex="1" parent="1">
+          <mxGeometry x="398.0000000000001" y="302.59999999999945" width="140" height="28" as="geometry" />
+        </mxCell>
         <mxCell id="z4yIEVMTfMFjfDFcFt4A-24" value="120&lt;div&gt;x&lt;/div&gt;&lt;div&gt;120&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;25&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#006EAF;fontColor=#ffffff;direction=south;" parent="1" vertex="1">
           <mxGeometry x="81.19999999999955" y="662.2000000000002" width="25" height="120" as="geometry" />
         </mxCell>
@@ -21,12 +27,6 @@
         </mxCell>
         <mxCell id="7ess5lu5yjl1w3nFSH7W-33" value="120&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;120&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=none;fontColor=#ffffff;direction=south;aspect=fixed;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="822.0000000000003" y="662.1999999999994" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="7ess5lu5yjl1w3nFSH7W-2" value="" style="shape=manualInput;whiteSpace=wrap;html=1;flipV=0;flipH=1;size=47;" vertex="1" parent="1">
-          <mxGeometry x="393.5700000000003" y="306.6" width="140" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="7ess5lu5yjl1w3nFSH7W-3" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;rotation=18.5;" vertex="1" parent="1">
-          <mxGeometry x="398.0000000000001" y="302.59999999999945" width="140" height="28" as="geometry" />
         </mxCell>
         <mxCell id="z4yIEVMTfMFjfDFcFt4A-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;direction=east;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="582.0000000000002" y="786.8000000000004" width="305" height="6" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="671.5699999999999" y="68.9000000000007" width="50" height="159" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-217" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="428.5699999999996" y="68.60000000000014" width="28" height="140" as="geometry" />
+          <mxGeometry x="386.9999999999996" y="99.00000000000014" width="28" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-22KtDxWP85HKrOJTFWV-222" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;aspect=fixed;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="97.09000000000037" y="53.200000000000045" width="140" height="140" as="geometry" />
