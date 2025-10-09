@@ -307,13 +307,13 @@
         <mxCell id="W-HshkaLze3f1oXzT0ZR-113" value="光猫" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="924" width="81" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="W-HshkaLze3f1oXzT0ZR-115" value="路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-115" value="路由（4口2.5G）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="1041" width="81" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="W-HshkaLze3f1oXzT0ZR-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.506;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.502;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W-HshkaLze3f1oXzT0ZR-113" target="W-HshkaLze3f1oXzT0ZR-115">
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.506;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="W-HshkaLze3f1oXzT0ZR-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="336" y="1098" as="sourcePoint" />
-            <mxPoint x="386" y="1048" as="targetPoint" />
+            <mxPoint x="359" y="1041" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
