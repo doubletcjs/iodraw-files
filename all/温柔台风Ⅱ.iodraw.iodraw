@@ -310,6 +310,12 @@
         <mxCell id="W-HshkaLze3f1oXzT0ZR-115" value="路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="1041" width="81" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-116" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336" y="1098" as="sourcePoint" />
+            <mxPoint x="386" y="1048" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
