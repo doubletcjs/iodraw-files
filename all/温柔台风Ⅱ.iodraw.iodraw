@@ -405,8 +405,8 @@
         <mxCell id="W-HshkaLze3f1oXzT0ZR-151" value="Windows" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815.3" y="1062" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="W-HshkaLze3f1oXzT0ZR-152" value="子母路由" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="406" y="1210" width="80" height="80" as="geometry" />
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-152" value="子母路由（母）" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="432" y="1062" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W-HshkaLze3f1oXzT0ZR-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.495;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.457;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="W-HshkaLze3f1oXzT0ZR-150">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
