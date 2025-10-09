@@ -327,8 +327,14 @@
         <mxCell id="W-HshkaLze3f1oXzT0ZR-119" value="Windows" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1216" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="W-HshkaLze3f1oXzT0ZR-120" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-120" value="子母路由" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="132.2" y="1200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="1123" as="sourcePoint" />
+            <mxPoint x="293" y="1073" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
