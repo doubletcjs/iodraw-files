@@ -330,10 +330,16 @@
         <mxCell id="W-HshkaLze3f1oXzT0ZR-120" value="子母路由" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="132.2" y="1200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W-HshkaLze3f1oXzT0ZR-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.495;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.457;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W-HshkaLze3f1oXzT0ZR-115" target="W-HshkaLze3f1oXzT0ZR-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="243" y="1123" as="sourcePoint" />
             <mxPoint x="293" y="1073" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.495;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.457;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="1140" as="sourcePoint" />
+            <mxPoint x="427" y="1226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
