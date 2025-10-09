@@ -321,8 +321,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W-HshkaLze3f1oXzT0ZR-118" value="路由（4口2.5G）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="1093" width="120" height="48" as="geometry" />
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-118" value="NAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.2" y="1216" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="W-HshkaLze3f1oXzT0ZR-119" value="NAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1214" width="120" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
