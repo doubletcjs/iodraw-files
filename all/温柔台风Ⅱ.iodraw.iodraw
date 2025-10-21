@@ -871,10 +871,10 @@
         <mxCell id="AgS3DBgirEEGWk8bpwh1-201" value="80mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1522.74" y="1332" width="51" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AgS3DBgirEEGWk8bpwh1-202" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AgS3DBgirEEGWk8bpwh1-202" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.988;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AgS3DBgirEEGWk8bpwh1-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="1250" as="sourcePoint" />
-            <mxPoint x="1170" y="1200" as="targetPoint" />
+            <mxPoint x="1055.54" y="1385" as="sourcePoint" />
+            <mxPoint x="1105.54" y="1335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
