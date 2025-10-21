@@ -880,6 +880,12 @@
         <mxCell id="AgS3DBgirEEGWk8bpwh1-204" value="467.2mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1260.01" y="1385" width="68" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="AgS3DBgirEEGWk8bpwh1-205" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1234" y="1374" as="sourcePoint" />
+            <mxPoint x="1284" y="1324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
