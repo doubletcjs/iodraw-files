@@ -520,6 +520,12 @@
         <mxCell id="Oogg0CgpGVUKMDWgOhgH-74" value="15mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1100" y="703.5" width="51" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="Oogg0CgpGVUKMDWgOhgH-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.027;exitY=0.542;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Oogg0CgpGVUKMDWgOhgH-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1315" y="786" as="sourcePoint" />
+            <mxPoint x="1365" y="736" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
