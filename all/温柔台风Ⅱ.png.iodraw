@@ -10,6 +10,9 @@
         <mxCell id="OrMD3tzq0SJsI54ZZu4N-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="196.86" y="1414" width="1000" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="OrMD3tzq0SJsI54ZZu4N-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="192.57" y="1394" width="420" height="420" as="geometry" />
+        </mxCell>
         <mxCell id="uvvCaAn18OEcvAjlawTr-5" value="140&lt;div&gt;x&lt;/div&gt;&lt;div&gt;140&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;28&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="356.00000000000006" y="866.5" width="28" height="140" as="geometry" />
         </mxCell>
@@ -531,9 +534,6 @@
         </mxCell>
         <mxCell id="OrMD3tzq0SJsI54ZZu4N-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="192.57" y="1414" width="284" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="OrMD3tzq0SJsI54ZZu4N-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="192.57" y="1394" width="420" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
