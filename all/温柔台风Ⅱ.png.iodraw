@@ -719,7 +719,10 @@
           <mxGeometry x="946" y="1129.0000000000007" width="15" height="3.6" as="geometry" />
         </mxCell>
         <mxCell id="Y7D7DtOysM7pYL7hp09s-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=0;opacity=80;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1083.3600000000001" y="585" width="353" height="390" as="geometry" />
+          <mxGeometry x="586.0000000000001" y="1162" width="353" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Y7D7DtOysM7pYL7hp09s-46" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=east;strokeWidth=0;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="46.99999999999966" y="658.9999999999999" width="86" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
