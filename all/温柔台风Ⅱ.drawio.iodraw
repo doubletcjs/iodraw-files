@@ -23,7 +23,7 @@
           <mxGeometry x="961" y="330.09999999999945" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="mA5XYYskUNrywjXj5pvT-12" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="151" y="73.99999999999909" width="150" height="86" as="geometry" />
+          <mxGeometry x="151" y="67.49999999999909" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="mA5XYYskUNrywjXj5pvT-68" value="90&lt;span style=&quot;background-color: initial;&quot;&gt;x9&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="184.5" y="74.00000000000045" width="92" height="25" as="geometry" />
@@ -368,7 +368,7 @@
           <mxGeometry x="1077.7199999999998" y="352.35000000000053" width="21.59" height="112.75" as="geometry" />
         </mxCell>
         <mxCell id="WXh3uqF8cRXktnf6nEqN-14" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=south;strokeWidth=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="741" y="277.09999999999945" width="150" height="200" as="geometry" />
+          <mxGeometry x="741" y="237.09999999999945" width="150" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
