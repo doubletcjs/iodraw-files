@@ -577,9 +577,9 @@
         <mxCell id="VKA3KrJ-QiVV8rjMgTwy-12" value="SERVER/&amp;lt;MAC&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1041" y="1919" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VKA3KrJ-QiVV8rjMgTwy-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.147;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VKA3KrJ-QiVV8rjMgTwy-12">
+        <mxCell id="VKA3KrJ-QiVV8rjMgTwy-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VKA3KrJ-QiVV8rjMgTwy-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="912" y="1929" as="sourcePoint" />
+            <mxPoint x="1034" y="1951" as="sourcePoint" />
             <mxPoint x="966" y="1912" as="targetPoint" />
           </mxGeometry>
         </mxCell>
