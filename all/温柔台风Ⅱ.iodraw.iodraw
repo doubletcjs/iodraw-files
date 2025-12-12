@@ -595,13 +595,13 @@
             <mxPoint x="848" y="1755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VKA3KrJ-QiVV8rjMgTwy-17" value="SETTING/&amp;lt;MAC&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1039" y="2046" width="120" height="60" as="geometry" />
+        <mxCell id="VKA3KrJ-QiVV8rjMgTwy-17" value="Heatbeat/&amp;lt;MAC&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="2135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VKA3KrJ-QiVV8rjMgTwy-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VKA3KrJ-QiVV8rjMgTwy-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1022" y="1965" as="sourcePoint" />
-            <mxPoint x="858" y="1765" as="targetPoint" />
+            <mxPoint x="1012" y="2054" as="sourcePoint" />
+            <mxPoint x="848" y="1854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
