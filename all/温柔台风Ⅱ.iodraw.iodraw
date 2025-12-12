@@ -547,8 +547,11 @@
         <mxCell id="VKA3KrJ-QiVV8rjMgTwy-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VKA3KrJ-QiVV8rjMgTwy-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VKA3KrJ-QiVV8rjMgTwy-2" value="Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1029" y="1685" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VKA3KrJ-QiVV8rjMgTwy-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="912" y="1766" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
