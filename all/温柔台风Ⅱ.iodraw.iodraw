@@ -937,6 +937,9 @@
         <mxCell id="k_l_AsmGy4_hvlQLEfSH-230" value="120x120x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1602.36" y="115.99999999999964" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="k_l_AsmGy4_hvlQLEfSH-233" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;strokeWidth=0;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1602.63" y="103.89999999999895" width="86" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
