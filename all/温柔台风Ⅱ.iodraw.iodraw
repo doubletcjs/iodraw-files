@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="1016" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="2100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="2100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k_l_AsmGy4_hvlQLEfSH-228" value="&lt;span style=&quot;background-color: initial;&quot;&gt;92x&lt;/span&gt;92&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="60.90000000000057" width="92" height="92" as="geometry" />
+        </mxCell>
         <mxCell id="k_l_AsmGy4_hvlQLEfSH-75" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="551" y="813.9999999999997" width="140" height="140" as="geometry" />
         </mxCell>
@@ -930,9 +933,6 @@
         </mxCell>
         <mxCell id="k_l_AsmGy4_hvlQLEfSH-227" value="&lt;span style=&quot;background-color: initial;&quot;&gt;92x&lt;/span&gt;92&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1084" y="33.60000000000057" width="92" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="k_l_AsmGy4_hvlQLEfSH-228" value="&lt;span style=&quot;background-color: initial;&quot;&gt;92x&lt;/span&gt;92&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="67.00000000000057" width="92" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
