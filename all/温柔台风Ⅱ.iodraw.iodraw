@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="2178" dy="1564" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="1400" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="1400" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="52" y="571.0000000000005" width="92" height="25" as="geometry" />
         </mxCell>
         <mxCell id="mA5XYYskUNrywjXj5pvT-52" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="970" y="265.89999999999947" width="140" height="140" as="geometry" />
+          <mxGeometry x="842" y="509.2999999999995" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="mA5XYYskUNrywjXj5pvT-12" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="151" y="66.99999999999909" width="200" height="86" as="geometry" />
@@ -308,7 +308,7 @@
           <mxGeometry x="935.59" y="250.89999999999992" width="40" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mA5XYYskUNrywjXj5pvT-56" value="140x140x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="757" y="172.89999999999947" width="140" height="140" as="geometry" />
+          <mxGeometry x="706" y="513.4999999999995" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="WXh3uqF8cRXktnf6nEqN-1" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=80;direction=west;" parent="1" vertex="1">
           <mxGeometry x="914" y="288.1500000000001" width="21.59" height="112.75" as="geometry" />
