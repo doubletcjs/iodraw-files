@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="3337" dy="2109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="2100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="667" dy="422" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="2100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k_l_AsmGy4_hvlQLEfSH-477" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1677.2400000000002" y="1695.999999999999" width="100" height="63.5" as="geometry" />
+        </mxCell>
         <mxCell id="k_l_AsmGy4_hvlQLEfSH-274" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="359.8800000000001" y="2963.249999999999" width="100" height="63.5" as="geometry" />
         </mxCell>
@@ -1120,11 +1123,8 @@
         <mxCell id="k_l_AsmGy4_hvlQLEfSH-476" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;opacity=80;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1417.53" y="1800.9999999999995" width="360" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="k_l_AsmGy4_hvlQLEfSH-477" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=west;strokeWidth=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1677.2400000000002" y="1695.999999999999" width="100" height="63.5" as="geometry" />
-        </mxCell>
         <mxCell id="k_l_AsmGy4_hvlQLEfSH-275" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=east;strokeWidth=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1602" y="1712.999999999999" width="150" height="86" as="geometry" />
+          <mxGeometry x="1627.76" y="1730.999999999999" width="150" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
