@@ -391,9 +391,6 @@
         <mxCell id="BP7EOxLoXuyDUA9nwLsf-28" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="677.1300000000001" y="1062.4000000000005" width="140" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="BP7EOxLoXuyDUA9nwLsf-29" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=east;strokeWidth=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="827.1300000000001" y="1076.8999999999996" width="210" height="86" as="geometry" />
-        </mxCell>
         <mxCell id="BP7EOxLoXuyDUA9nwLsf-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1037.5000000000007" y="1047.400000000001" width="15" height="15" as="geometry" />
         </mxCell>
@@ -453,9 +450,6 @@
         </mxCell>
         <mxCell id="BP7EOxLoXuyDUA9nwLsf-60" value="120x120x25" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="677.1800000000001" y="1042.3999999999996" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="BP7EOxLoXuyDUA9nwLsf-62" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="851.18" y="911.4" width="200" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
