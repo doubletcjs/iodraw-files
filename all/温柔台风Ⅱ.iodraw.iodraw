@@ -904,11 +904,14 @@
         <mxCell id="DBhmnawvgemFZt__CwLO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="1571.3199999999997" y="1020.9999999999997" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-7" value="180x180" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="DBhmnawvgemFZt__CwLO-7" value="180x180x32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="896.6099999999997" y="654.899999999999" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="DBhmnawvgemFZt__CwLO-8" value="120x120x15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1016.5999999999998" y="840.5899999999988" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-10" value="180x180x32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="906.6099999999997" y="664.899999999999" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
