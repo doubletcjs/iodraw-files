@@ -910,8 +910,8 @@
         <mxCell id="DBhmnawvgemFZt__CwLO-8" value="120x120x15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1016.5999999999998" y="840.5899999999988" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-10" value="180x180x32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1399.9999999999995" y="660.589999999999" width="180" height="180" as="geometry" />
+        <mxCell id="DBhmnawvgemFZt__CwLO-10" value="180&lt;div&gt;x&lt;/div&gt;&lt;div&gt;180&lt;/div&gt;&lt;div&gt;x&lt;/div&gt;&lt;div&gt;32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1399.9999999999995" y="660.589999999999" width="32" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
