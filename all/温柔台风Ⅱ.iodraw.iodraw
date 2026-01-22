@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="669" dy="485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="388" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1284,6 +1284,36 @@
         </mxCell>
         <mxCell id="DBhmnawvgemFZt__CwLO-602" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="497.92000000000064" y="1902.9000000000008" width="1" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-660" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="313.5400000000002" y="1116" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-661" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=north;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="301.0400000000002" y="1141" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-662" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="113.54000000000016" y="1116" width="15" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-663" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=north;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="101.04000000000016" y="1141" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-664" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86.04000000000062" y="1141.0000000000007" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-665" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="101.04000000000016" y="1140.9999999999995" width="240" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-666" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86.04000000000062" y="1126.1000000000008" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-667" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.04000000000065" y="1126.1000000000008" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-668" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341.04000000000065" y="1141.0000000000007" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-669" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="85.75999999999996" y="1126.1" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
