@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DBhmnawvgemFZt__CwLO-618" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1011.6999999999998" y="1097.6800000000005" width="140" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-619" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1087.6000000000004" y="1125.68" width="73" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBhmnawvgemFZt__CwLO-620" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1159.6" y="1102.48" width="1" height="24" as="geometry" />
+        </mxCell>
         <mxCell id="DBhmnawvgemFZt__CwLO-614" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1523.0900000000001" y="67.90000000000009" width="15" height="40" as="geometry" />
         </mxCell>
@@ -64,17 +73,8 @@
         <mxCell id="DBhmnawvgemFZt__CwLO-367" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;direction=south;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="906.61" y="674.7999999999997" width="27" height="397" as="geometry" />
         </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-579" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1006.5000000000001" y="1126.0000000000002" width="73" height="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-580" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1006.4999999999999" y="1102.0000000000002" width="1" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="DBhmnawvgemFZt__CwLO-581" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=east;strokeWidth=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="905.5999999999993" y="960.799999999999" width="86" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-582" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="991.6" y="1111.9000000000003" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="DBhmnawvgemFZt__CwLO-436" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="696.4399999999996" y="1097.4000000000003" width="140" height="28" as="geometry" />
@@ -1249,17 +1249,8 @@
         <mxCell id="DBhmnawvgemFZt__CwLO-616" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="1295.31" y="78" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-618" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1011.6999999999998" y="1097.6800000000005" width="140" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-619" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1087.6000000000004" y="1125.68" width="73" height="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DBhmnawvgemFZt__CwLO-620" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1159.6" y="1102.48" width="1" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="DBhmnawvgemFZt__CwLO-621" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="992.5" y="675.28" width="15" height="437" as="geometry" />
+          <mxGeometry x="991.93" y="674.6" width="15" height="437" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
