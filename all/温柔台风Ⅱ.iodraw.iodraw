@@ -1,9 +1,15 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="450" dy="329" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="806" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HTrA22tLakuwp6Zej62G-45" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;strokeWidth=0;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="299" y="211.61999999999918" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HTrA22tLakuwp6Zej62G-73" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="369" y="61.999999999999574" width="140" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="HTrA22tLakuwp6Zej62G-36" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="887.5000000000002" y="290.3999999999997" width="140" height="140" as="geometry" />
         </mxCell>
@@ -564,9 +570,6 @@
         </mxCell>
         <mxCell id="0r9q9k8kjNR0GHuBRj0F-79" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="149.43000000000006" y="361.6200000000006" width="360" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="HTrA22tLakuwp6Zej62G-73" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;28&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="369" y="61.999999999999574" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dwMMeHFkhltryFcqug6S-1" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="638.5199999999998" y="89.39999999999964" width="360" height="15" as="geometry" />
@@ -1242,9 +1245,6 @@
         </mxCell>
         <mxCell id="HTrA22tLakuwp6Zej62G-7" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=east;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="667.5000000000001" y="534.8999999999996" width="360" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="HTrA22tLakuwp6Zej62G-45" value="电源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;direction=north;strokeWidth=0;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="299" y="211.61999999999918" width="210" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
