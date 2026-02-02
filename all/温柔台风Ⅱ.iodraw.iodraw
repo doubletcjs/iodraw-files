@@ -43,9 +43,6 @@
         <mxCell id="m18CXmECANwFPYsNxHPa-498" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=0;opacity=80;direction=east;" parent="1" vertex="1">
           <mxGeometry x="120.02000000000008" y="1227.0000000000002" width="390" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="m18CXmECANwFPYsNxHPa-495" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="120.01999999999987" y="1006.0000000000005" width="15" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="m18CXmECANwFPYsNxHPa-395" value="120&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;120&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1597.5499999999993" y="57.2000000000005" width="120" height="15" as="geometry" />
         </mxCell>
@@ -914,7 +911,10 @@
           <mxGeometry x="495.0399999999999" y="1249.6000000000004" width="15" height="3.6" as="geometry" />
         </mxCell>
         <mxCell id="m18CXmECANwFPYsNxHPa-496" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="119.99999999999989" y="1231.0000000000005" width="15" height="15" as="geometry" />
+          <mxGeometry x="119.99999999999989" y="1231.0000000000005" width="15" height="3.6" as="geometry" />
+        </mxCell>
+        <mxCell id="m18CXmECANwFPYsNxHPa-495" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="120.01999999999987" y="1006.0000000000005" width="15" height="3.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
