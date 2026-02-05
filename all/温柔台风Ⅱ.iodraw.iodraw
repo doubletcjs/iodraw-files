@@ -422,7 +422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXH2soupwTYWUspc4fOx" name="立式">
-    <mxGraphModel dx="301" dy="190" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -913,13 +913,16 @@
           <mxGeometry x="125" y="113.2" width="15" height="217" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-34" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1027.18" y="960.1" width="20" height="122.5" as="geometry" />
+          <mxGeometry x="952.98" y="1118" width="20" height="122.5" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-35" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="922.1800000000001" y="960.1" width="20" height="122.5" as="geometry" />
+          <mxGeometry x="847.98" y="1118" width="20" height="122.5" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-36" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="922.1800000000001" y="1082.6" width="140" height="5" as="geometry" />
+          <mxGeometry x="839.8000000000001" y="1240.5" width="140" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="ncKl55GQaS-HoQusolTX-37" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="849.8000000000001" y="1250.5" width="140" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
