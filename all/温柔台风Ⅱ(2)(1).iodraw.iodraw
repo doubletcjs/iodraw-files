@@ -422,10 +422,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXH2soupwTYWUspc4fOx" name="立式">
-    <mxGraphModel dx="181" dy="115" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TosqWtvN2FYZVwS8fQka-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764.23" y="103" width="1" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="oLm_dy9bhOvqMg4zCIK--1" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="981.4300000000003" y="118.00000000000023" width="15" height="15" as="geometry" />
         </mxCell>
@@ -785,9 +788,6 @@
         </mxCell>
         <mxCell id="TosqWtvN2FYZVwS8fQka-133" value="120x120x30" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1332" y="766.5999999999996" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="TosqWtvN2FYZVwS8fQka-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="764.23" y="100.5" width="1" height="25" as="geometry" />
         </mxCell>
         <mxCell id="TosqWtvN2FYZVwS8fQka-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="118.66999999999973" y="812.4900000000002" width="410" height="1" as="geometry" />
