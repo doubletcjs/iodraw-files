@@ -422,7 +422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXH2soupwTYWUspc4fOx" name="立式">
-    <mxGraphModel dx="517" dy="328" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2351" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -738,11 +738,11 @@
         <mxCell id="ncKl55GQaS-HoQusolTX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=west;" vertex="1" parent="1">
           <mxGeometry x="80.7699999999999" y="341.6000000000003" width="15" height="3.6" as="geometry" />
         </mxCell>
-        <mxCell id="ncKl55GQaS-HoQusolTX-28" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="889.99" y="1013.47" width="220" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-10" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=west;" vertex="1" parent="1">
           <mxGeometry x="555.7699999999999" y="98.00000000000034" width="15" height="3.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ncKl55GQaS-HoQusolTX-28" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="889.99" y="1013.47" width="220" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;direction=west;" vertex="1" parent="1">
           <mxGeometry x="80.7699999999999" y="98.00000000000034" width="15" height="3.6" as="geometry" />
@@ -761,9 +761,6 @@
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=80;direction=east;" vertex="1" parent="1">
           <mxGeometry x="171.77" y="217.45000000000022" width="21.59" height="112.75" as="geometry" />
-        </mxCell>
-        <mxCell id="ncKl55GQaS-HoQusolTX-31" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="1094.9899999999998" y="1028.47" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-33" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="130" y="113.2" width="15" height="217" as="geometry" />
@@ -818,6 +815,9 @@
         </mxCell>
         <mxCell id="XmrR5X--3eE9u9HZdtUD-20" value="140&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=west;opacity=80;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="920" y="771.0999999999989" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ncKl55GQaS-HoQusolTX-31" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="1094.9899999999998" y="1028.47" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
