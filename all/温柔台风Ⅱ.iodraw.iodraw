@@ -422,7 +422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXH2soupwTYWUspc4fOx" name="立式">
-    <mxGraphModel dx="2059" dy="164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2246" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,9 +858,6 @@
         <mxCell id="O6MNrLBIRCOcyqZfYZ1A-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="78" y="1059.49" width="73" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="mca-ruEh6JQJCOUWMiNn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="78" y="622.62" width="73" height="1" as="geometry" />
-        </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="95.7699999999999" y="330.1999999999993" width="460" height="15" as="geometry" />
         </mxCell>
@@ -910,10 +907,10 @@
           <mxGeometry x="130" y="113.2" width="15" height="217" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-62" value="" style="shape=manualInput;whiteSpace=wrap;html=1;direction=south;flipH=1;rotation=347.5;" vertex="1" parent="1">
-          <mxGeometry x="90.16" y="627" width="52" height="137" as="geometry" />
+          <mxGeometry x="149.39" y="647" width="52" height="137" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-63" value="140&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;140&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;x&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;25&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#ffffff;direction=north;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="80.76999999999956" y="627.0000000000005" width="25" height="140" as="geometry" />
+          <mxGeometry x="139.99999999999955" y="647.0000000000005" width="25" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ncKl55GQaS-HoQusolTX-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;direction=east;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="431.00000000000034" y="642.4700000000003" width="150" height="365" as="geometry" />
