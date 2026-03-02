@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram id="WiWNsz_92EF7QhJdGZ92" name="第 1 页">
-    <mxGraphModel dx="2503" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -741,14 +741,14 @@
             <mxPoint x="-461.8620000000001" y="1332.8219999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hqw778OV4bUmLmWHv8Ud-16" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;15mm*100mm&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-269.5" y="1548" width="96" height="26" as="geometry" />
+        <mxCell id="hqw778OV4bUmLmWHv8Ud-16" value="4mm孔，孔距100mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-287.5" y="1548" width="133" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hqw778OV4bUmLmWHv8Ud-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.13;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hqw778OV4bUmLmWHv8Ud-8" target="hqw778OV4bUmLmWHv8Ud-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hqw778OV4bUmLmWHv8Ud-19" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;15mm*100mm&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-269.5" y="1087.36" width="96" height="26" as="geometry" />
+        <mxCell id="hqw778OV4bUmLmWHv8Ud-19" value="4mm孔，孔距100mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-287.5" y="1087.36" width="133" height="26" as="geometry" />
         </mxCell>
         <mxCell id="hqw778OV4bUmLmWHv8Ud-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-539" y="1270" width="40" height="26" as="geometry" />
