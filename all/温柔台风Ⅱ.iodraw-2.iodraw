@@ -754,11 +754,14 @@
         <mxCell id="hqw778OV4bUmLmWHv8Ud-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-539" y="1270" width="40" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="hqw778OV4bUmLmWHv8Ud-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hqw778OV4bUmLmWHv8Ud-22" target="hqw778OV4bUmLmWHv8Ud-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hqw778OV4bUmLmWHv8Ud-22" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#F8CECC;strokeColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="-398" y="1435.5" width="23" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="hqw778OV4bUmLmWHv8Ud-23" value="边距23mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-482" y="1433" width="75" height="26" as="geometry" />
+          <mxGeometry x="-505" y="1428.75" width="75" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
